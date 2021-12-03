@@ -8,17 +8,20 @@
   - [Cheat Sheets](#cheat-sheets)
   - [Continued development](#continued-development)
 
-## Overview
+### Overview
 
 ### Online Courses
 
+- 
+
 ### Youtube Channels
 
-## Github
+### Github
 
 ### Cool Stuff
 
 ### Cheat Sheets
+- [Flexbox](https://flexbox.malven.co/) - Flexbox Cheat Sheet
 
 ### Continued development
 

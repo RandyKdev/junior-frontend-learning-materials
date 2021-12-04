@@ -81,6 +81,8 @@
 - [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - CSS Shadow Palette Generator
 - [Pocoloco](https://pocoloco.io/) - Custom Dynamic CSS backgrounds
 - [Optimizillia](https://imagecompressor.com/) - Image Compressor Tool
+- [Sizzy](https://sizzy.co/) - Responsive Layout Help (View multiple layouts at once)
+- [Respnsively](https://responsively.app/) - Responsive Layout Help (View multiple layouts at once)
 
 ### Free Stock Images
 

@@ -10,6 +10,8 @@
   - [Cheat Sheets](#cheat-sheets)
   - [Useful Tools](#useful-tools)
   - [Free Stock Images](#free-stock-images)
+  - [JS Libraries](#js-libraries)
+  - [Public APIs](#public-apis)
   - [Continued development](#continued-development)
 
 ### Overview
@@ -86,6 +88,23 @@
 - [Unsplash](https://unsplash.com/) - Free Stock Photos
 - [Coverr](https://coverr.co/) - Free Stock Videos
 - [unDraw](https://undraw.co/) - Free Stock Illustrations
+
+### JS Libraries
+
+- [PopperJS](https://github.com/popperjs/popper-core)
+- [ParsleyJS](https://github.com/guillaumepotier/Parsley.js)
+- [Choreographer](https://github.com/christinecha/choreographer-js)
+- [ChartJS](https://github.com/chartjs/Chart.js)
+- [BideoJS](https://github.com/rishabhp/bideo.js)
+- [AOS](https://github.com/michalsnik/aos)
+- [Slick](https://github.com/kenwheeler/slick)
+- [Masonry](https://github.com/desandro/masonry)
+- [AnimeJS](https://github.com/juliangarnier/anime)
+- [FullpagJS](https://github.com/alvarotrigo/fullPage.js)
+
+### Public APIs
+
+- [Public APIs](https://github.com/public-apis/public-apis)
 
 ### Continued development
 

@@ -5,8 +5,11 @@
   - [Youtube channels](#youtube-channels)
   - [Github](#github)
   - [Cool Stuff](#cool-stuff)
+  - [Forms](#forms)
+  - [SVG Icons](#svg-icons)
   - [Cheat Sheets](#cheat-sheets)
   - [Useful Tools](#useful-tools)
+  - [Free Stock Images](#free-stock-images)
   - [Continued development](#continued-development)
 
 ### Overview
@@ -22,6 +25,8 @@
 - [Angela Yu 2022 Web Developer Boot Camp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - Full HTML, CSS and JS Course
 - [Angela Yu 2022 100 days of Python](https://www.udemy.com/course/100-days-of-code/) - Python Course
 - [100 Days of CSS](https://100dayscss.com/) - 100 days of CSS challenge
+- [Learn CSS](https://web.dev/learn/css/) - Web.dev Learn CSS Course
+- [Free Courses Github](https://freecourses.github.io/) - Free Courses by Search
 
 ### Youtube Channels
 
@@ -31,8 +36,6 @@
 
 ### Github
 
-Create custom github badges
-
 - [Simple Icons](https://simpleicons.org/) - Icons for badges
 - [Shields](https://shields.io/) - Custom Badge Generator
 
@@ -40,18 +43,28 @@ Create custom github badges
 
 - [Clippy](https://bennettfeely.com/clippy/) - CSS Clip Path Maker
 - [CSS Lay it Out](https://csslayout.io/) - CSS Layout Patterns
-- [Grid Lay it out](https://grid.layoutit.com/) - CSS Grid Generator
+- [Grid Lay it out](https://grid.layoutit.com/) - CSS Grid Generator / Visualization Help
+- [Flexbox.Help](http://flexbox.help/) - Flexbox Generator / Visualization Help
 - [Grid Garden](https://cssgridgarden.com/) - Mini game for mastering CSS Grid
 - [Flexbox Froggy](https://flexboxfroggy.com/) - Mini game for mastering Flexbox
+
+### Forms
+
+- [EmailJS](https://www.emailjs.com/) - Form Data Collection
 - [Form Spree](https://formspree.io/) - Form Data Collection
 - [Form Spark](https://formspark.io/) - Form Data Collection
-- [Font Awesome](https://fontawesome.com/) - SVG Icon Library with CDN
-- [Icon Scout](https://iconscout.com/) - SVG Icon Library with CDN
-- [Tabler Icons](https://tablericons.com/) - SVG Icon Library with CDN
+- [Form Submit](https://formsubmit.co/) - Form Data Collection
+- [PHP Mailer](https://github.com/PHPMailer/PHPMailer) - PHP Mailer
+
+### SVG Icons
+
+- [Font Awesome](https://fontawesome.com/) - SVG Icon Library
+- [Icon Scout](https://iconscout.com/) - SVG Icon Library
+- [Tabler Icons](https://tablericons.com/) - SVG Icon Library
+- [Flat Icon](https://www.flaticon.com/) - SVG Icon Library
+- [Icons8](https://icons8.com/animated-icons) - Animated Icon Library
 
 ### Cheat Sheets
-
-A Small selection of handy cheat sheets.
 
 - [Flexbox](https://flexbox.malven.co/) - Flexbox Cheat Sheet
 - [CSS](https://grid.malven.co/) - CSS Cheat Sheet
@@ -65,6 +78,16 @@ A Small selection of handy cheat sheets.
 - [Dopely Gradients](https://colors.dopely.top/gradients) - Custom Beautiful Gradients
 - [Shadow Palette Generator](https://www.joshwcomeau.com/shadow-palette/) - CSS Shadow Palette Generator
 - [Pocoloco](https://pocoloco.io/) - Custom Dynamic CSS backgrounds
+- [Optimizillia](https://imagecompressor.com/) - Image Compressor Tool
+
+### Free Stock Images
+
+- [Pexels](https://www.pexels.com/) - Free Stock Photos
+- [Unsplash](https://unsplash.com/) - Free Stock Photos
+- [Coverr](https://coverr.co/) - Free Stock Videos
+- [unDraw](https://undraw.co/) - Free Stock Illustrations
 
 ### Continued development
 
+will update as i go along my courses/learning path and create index.html when i finish my portfolio as a 
+side project

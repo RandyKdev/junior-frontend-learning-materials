@@ -101,6 +101,7 @@
 - [Masonry](https://github.com/desandro/masonry) - Cascading Grid Layout Library
 - [AnimeJS](https://github.com/juliangarnier/anime) - JS Animation Library
 - [FullpagJS](https://github.com/alvarotrigo/fullPage.js) - Full Page Scrolling
+- [ParticlesJS](https://github.com/VincentGarreau/particles.js/) - Interactive Webpage Particles
 
 ### Public APIs
 

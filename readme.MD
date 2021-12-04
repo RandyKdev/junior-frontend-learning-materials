@@ -91,16 +91,16 @@
 
 ### JS Libraries
 
-- [PopperJS](https://github.com/popperjs/popper-core)
-- [ParsleyJS](https://github.com/guillaumepotier/Parsley.js)
-- [Choreographer](https://github.com/christinecha/choreographer-js)
-- [ChartJS](https://github.com/chartjs/Chart.js)
-- [BideoJS](https://github.com/rishabhp/bideo.js)
-- [AOS](https://github.com/michalsnik/aos)
-- [Slick](https://github.com/kenwheeler/slick)
-- [Masonry](https://github.com/desandro/masonry)
-- [AnimeJS](https://github.com/juliangarnier/anime)
-- [FullpagJS](https://github.com/alvarotrigo/fullPage.js)
+- [PopperJS](https://github.com/popperjs/popper-core) - Hover Tooltip Popper
+- [ParsleyJS](https://github.com/guillaumepotier/Parsley.js) - Form Validation
+- [Choreographer](https://github.com/christinecha/choreographer-js) - Complex CSS Animations
+- [ChartJS](https://github.com/chartjs/Chart.js) - JS Charting for data
+- [BideoJS](https://github.com/rishabhp/bideo.js) - HTML5 BG Video Player
+- [AOS](https://github.com/michalsnik/aos) - Animate on scroll popper
+- [Slick](https://github.com/kenwheeler/slick) - Img Carousel 
+- [Masonry](https://github.com/desandro/masonry) - Cascading Grid Layout Library
+- [AnimeJS](https://github.com/juliangarnier/anime) - JS Animation Library
+- [FullpagJS](https://github.com/alvarotrigo/fullPage.js) - Full Page Scrolling
 
 ### Public APIs
 

@@ -35,6 +35,7 @@
 - [Kevin Powell](https://www.youtube.com/kevinpowell) - HTML & CSS
 - [The Net Ninja](https://www.youtube.com/thenetninja) - CSS & JS
 - [Florin Pop](https://www.youtube.com/florinpop) - JS
+- [Bedim Code](https://www.youtube.com/bedimcode) - Full site code along walk through - amazing content
 
 ### Github
 
@@ -82,7 +83,7 @@
 - [Pocoloco](https://pocoloco.io/) - Custom Dynamic CSS backgrounds
 - [Optimizillia](https://imagecompressor.com/) - Image Compressor Tool
 - [Sizzy](https://sizzy.co/) - Responsive Layout Help (View multiple layouts at once)
-- [Respnsively](https://responsively.app/) - Responsive Layout Help (View multiple layouts at once)
+- [Responsively](https://responsively.app/) - Responsive Layout Help (View multiple layouts at once)
 
 ### Free Stock Images
 
